@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APIHomework.props" />
+</Project>
